@@ -1,0 +1,7 @@
+[Events]
+//Background and Video events
+0,0,"Faint.png"
+1,-700,"Faint.AVI"
+//Break Periods
+2,71483,78625
+2,137781,146526
