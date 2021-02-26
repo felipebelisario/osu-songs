@@ -1,0 +1,271 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"zzzzzzzzzzzz.jpg",320,240
+ M,0,56304,56515,320,240
+ P,0,56379,,H
+ S,0,56571,,0.4809863
+Sprite,Foreground,Centre,"zzzzzzzzzzzz.jpg",320,240
+ P,0,62979,,H
+ M,0,63062,63273,320,240
+ S,0,63171,,0.4809863
+Sprite,Foreground,Centre,"zzzzzzzzzzzz.jpg",320,240
+ P,0,63700,,H
+ M,0,63835,64046,320,240
+ S,0,63892,,0.4809863
+Sprite,Foreground,Centre,"invert.png",320,240
+ M,0,56529,60579,320,240
+ S,0,56529,60579,0.4599452,0.4809865
+ P,0,57295,,V
+Sprite,Foreground,Centre,"zzzzzzzzzzzz.jpg",320,240
+ P,0,45940,,H
+ M,0,45962,46173,320,240
+ S,0,46132,,0.4809863
+Sprite,Foreground,Centre,"invert.png",320,240
+ S,0,46179,,0.4599452
+ P,0,46945,,V
+ M,0,50542,50992,320,240
+Sprite,Foreground,Centre,"black.png",320,240
+ M,0,110155,124895,320,240
+Sprite,Foreground,Centre,"zzzzzzzzzzzz.jpg",320,240
+ P,0,109405,,H
+ M,0,109420,109631,320,240
+ S,0,109597,,0.4809863
+Sprite,Foreground,Centre,"blackwhitereverse.png",320,240
+ S,0,62079,62980,0.4599452
+Sprite,Foreground,Centre,"blackwhite.jpg",320,240
+ S,0,60579,60954,0.4599452,0.4599454
+ M,0,60579,62079,320,240
+Sprite,Foreground,Centre,"blackwhite.jpg",320,240
+ S,0,65380,66580,0.4599452
+Sprite,Foreground,Centre,"glitch.png",320,240
+ M,0,50979,,320,240
+ S,0,50979,56365,0.4599452
+Sprite,Foreground,Centre,"oooooooooo.png",320,240
+ S,0,64060,64180,0.4599451
+Sprite,Foreground,Centre,"normal.png",320,240
+ S,0,63280,63700,0.4599452
+Sprite,Foreground,Centre,"black.png",320,240
+ S,0,64600,64720,0.4599451
+Sprite,Foreground,Centre,"black.png",320,240
+ S,0,65230,65380,0.4599451
+Sprite,Foreground,Centre,"zzzzzzzzzzzz.jpg",320,240
+ P,0,64180,,H
+ S,0,64372,,0.4809863
+ M,0,64390,64601,320,240
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,70780,70990,1.315616
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,71680,71890,1.315616
+ P,0,71842,,V
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,73180,73390,1.315616
+Sprite,Foreground,Centre,"rrrrr2.png",320,240
+ P,0,73510,,V
+ S,0,73510,73645,1.315616
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,75730,75805,1.315616
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,66580,66640,1.315616
+Sprite,Foreground,Centre,"rrrrr2.png",320,240
+ S,0,66730,66790,1.308603
+Sprite,Foreground,Centre,"black.png",320,240
+ S,0,66790,66880,1
+Sprite,Foreground,Centre,"normal.png",320,240
+ S,0,66640,66730,0.4599452
+Sprite,Foreground,Centre,"invert.png",320,240
+ S,0,66880,69580,0.4599453
+Sprite,Foreground,Centre,"invert.png",320,240
+ P,0,49930,,V
+ M,0,50175,50678,-76.97535,60.44931
+Sprite,Foreground,Centre,"black.png",320,240
+ M,0,50434,50979,320,240
+Sprite,Foreground,Centre,"black.png",320,240
+ M,0,49779,49929,320,240
+Sprite,Foreground,Centre,"rrrrr2.png",320,240
+ M,0,76180,,320,240
+ S,0,76180,76270,1.315616
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ M,0,69580,70180,-54.53152,448.3069
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ M,0,76885,,320,240
+ S,0,76885,77035,1.315616
+Sprite,Foreground,Centre,"normal.png",320,240
+ F,0,2379,,1
+ S,0,2454,46014,0.4599452
+Sprite,Foreground,Centre,"half.png",320,240
+ S,0,45579,,0.466959
+ M,0,45579,45729,634.9152,268.0548
+Sprite,Foreground,Centre,"buzzzz.jpg",320,240
+ S,0,45729,,0.2214796
+ R,0,45729,,0.07013702
+ M,0,45729,45939,493.2384,111.6493
+Sprite,Foreground,Centre,"half.png",320,240
+ S,0,45579,,0.466959
+ M,0,45579,45729,634.9152,268.0548
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ M,0,109630,109705,320,240,184.6356,311.5397
+ S,0,109630,109705,0.4599452,0.6563287
+ M,0,109705,109780,184.6356,311.5397,49.27126,367.6495
+ S,0,109705,109780,0.6563287,0.7895889
+ M,0,109780,110155,49.27126,367.6495
+ S,0,109780,110155,0.7895889
+Sprite,Foreground,Centre,"normal.png",320,240
+ M,0,98979,,320,240
+ S,0,98979,109404,0.4599451
+Sprite,Foreground,Centre,"rrrrr1.jpg",320,240
+ M,0,64720,,320,240
+ S,0,64720,65230,0.4599451
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ M,0,70180,,320,240
+ S,0,70180,70780,0.4599451
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ V,0,70990,,1,1
+ S,0,70990,71680,0.4599457
+ P,0,71680,,V
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ S,0,71890,73180,0.4599454
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ M,0,73390,,320,240
+ S,0,73390,73510,0.4599454
+ P,0,73405,,V
+Sprite,Foreground,Centre,"oooooreverse.png",320,240
+ S,0,73652,74980,0.4599451
+ P,0,74980,,H
+ P,0,74980,,V
+Sprite,Foreground,Centre,"oooooooooowhite.png",320,240
+ M,0,74680,,320,240
+ S,0,74680,74980,0.4599454
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ S,0,74980,75280,0.4599448
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ M,0,75371,,320,240
+ S,0,75371,75761,0.4599451
+ P,0,75516,,V
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,75281,75371,1.308603
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ S,0,75805,76180,0.4599451
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ P,0,76270,,H
+ P,0,76270,,V
+ S,0,76270,76886,0.4599452
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ P,0,77036,,H
+ S,0,77036,77185,0.4599451
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ S,0,77410,77710,0.4599451
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ S,0,77710,77860,1.315616
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ S,0,77860,78910,0.4599452
+ P,0,78095,,V
+Sprite,Foreground,Centre,"oooooooooowhite.png",320,240
+ S,0,77185,77410,0.4599452
+Sprite,Foreground,Centre,"rrrrr3.png",320,240
+ M,0,78910,,320,240
+ S,0,78910,79060,1.315616
+Sprite,Foreground,Centre,"oooooooooinvert.png",320,240
+ S,0,79060,79780,0.4599452
+Sprite,Foreground,Centre,"normal.png",320,240
+ M,0,279,,320,240
+ S,0,279,,0.4599451
+ F,0,1254,2379,0,1
+ F,0,2379,2399,1,0.7825753
+ F,0,2399,2474,0.7825753,0
+Sprite,Foreground,Centre,"-----------.png",320,240
+ M,0,79780,,320,240
+ S,0,79780,98979,0.459945
+Sprite,Foreground,Centre,"oooooooooo.png",320,240
+ F,0,79780,98979,0,0.2039451
+ S,0,79780,98979,0.4599451
+ M,0,86390,88193,320.7014,240,321.4027,240
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,79780,,0.4669593
+ M,0,79780,84587,-50.32328,271.5616
+ F,0,79780,84588,0,1
+Sprite,Foreground,Centre,"DIE.png",320,240
+ M,0,84587,,-50.32328,271.5616
+ S,0,84587,,0.4669593
+ F,0,84587,98979,1
+Sprite,Foreground,Centre,"DIE.png",320,240
+ F,0,85188,,1
+ S,0,85188,,0.4950137
+ M,0,85188,98979,106.7836,208.4384
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,84587,,0.3827945
+ M,0,84587,98979,318.5973,355.0247
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,85789,,0.6212601
+ M,0,85789,98979,296.1534,266.6521
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,86390,,0.5300822
+ M,0,86390,98979,449.7534,208.4384
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,86991,,0.516055
+ M,0,86991,98979,508.6684,349.4137
+Sprite,Foreground,Centre,"DIE.png",320,240
+ M,0,88794,,664.3726,258.937
+ S,0,88794,98979,0.8667398
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,89395,,1.021041
+ M,0,89395,98979,413.9836,336.7891
+Sprite,Foreground,Centre,"DIE.png",320,240
+ M,0,89996,98979,202.1699,254.7288
+Sprite,Foreground,Centre,"DIE.png",320,240
+ M,0,90597,,639.1233,334.685
+ S,0,90597,,1.603178
+ V,0,90597,98979,1.252493,0.8246582
+Sprite,Foreground,Centre,"DIE.png",320,240
+ V,0,91198,,2.052055,1.049096
+ M,0,91198,98979,609.6658,190.9041
+Sprite,Foreground,Centre,"DIE.png",320,240
+ V,0,91799,,2.472877,1.224438
+ M,0,91799,98979,295.4521,187.3973
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,88193,,0.8737534
+ M,0,88193,98979,-22.26848,196.5151
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,93602,,1.273534
+ V,0,93602,,1.575123,1.175342
+ M,0,93602,98979,472.1973,117.2603
+Sprite,Foreground,Centre,"DIE.png",320,240
+ V,0,92400,,2.47989,1.24548
+ M,0,92400,98979,484.1205,250.5205
+Sprite,Foreground,Centre,"DIE.png",320,240
+ M,0,94203,,66.80548,245.6109
+ S,0,94203,98979,1.413808
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,87592,,0.8737535
+ M,0,87592,98979,71.01372,132.6904
+Sprite,Foreground,Centre,"DIE.png",320,240
+ V,0,96607,,3.531945,2.087123
+ M,0,96607,98979,134.8383,390.0931
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,93002,,0.7966027
+ V,0,93002,,1.512,1.224438
+ M,0,93002,98979,190.948,131.2877
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,94804,,1.862685
+ M,0,94804,98979,0.1753387,61.15068
+Sprite,Foreground,Centre,"DIE.png",320,240
+ V,0,95405,,2.676274,1.175342
+ M,0,95405,98979,526.9041,434.2795
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,96006,,1.946849
+ V,0,96006,,1.329644,0.9158354
+ M,0,96006,96607,284.9315,57.64384,284.9315,58.34521
+ M,0,96607,98979,284.9315,58.34521,284.9315,57.64384
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,97208,,3.167233
+ M,0,97208,98979,551.4521,106.7397
+Sprite,Foreground,Centre,"DIE.png",320,240
+ S,0,97809,,4.050959
+ M,0,97809,98979,143.9562,256.8329
+Sprite,Foreground,Centre,"oooooooooo.png",320,240
+ M,0,98410,98979,-69.96167,474.2575
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
